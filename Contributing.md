@@ -5,7 +5,7 @@ Fork the repository and we'll get started.
 First, get your 3DS rom files ready. This means they'll need to be in either the .3ds or .cci file format. If you have them in .zcci or .z3ds, convert them back.
 
 Then, you're going to need to download the tools `3dstools` and `vgmstream`. Depending on the rom, I would highly recommend you have `python3.`
-Once you have these installed, move all your ROMs into one folder. For ease of use, I have created a bash script to easily rip your .wavs! (`extract_jingle.sh` in the root of the repository.)
+Once you have these installed, move all your ROMs into one folder. For ease of use, I have created a bash script to easily rip your .wavs! (`extract_jingle.sh` in the root of the repository.) There is also a .bat script for you Windows users, created by Celthium! (the .bat script in the root of the repository.)
 
 Once you've ripped your jingles from your ROMs, please rename them in a reasonable manner. For example,
 `Metroid - Samus Returns.wav` becomes `metroid-samus-returns.wav`
