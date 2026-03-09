@@ -23,7 +23,7 @@
     },
     {
       "game": "Kirby - Planet Robobot",
-      "file": "jingles/n3ds/kirby-planet-robobot"
+      "file": "jingles/n3ds/kirby-planet-robobot.wav"
     },
     {
       "game": "Kirby - Triple Deluxe",
@@ -43,7 +43,7 @@
     },
     {
       "game": "Legend of Zelda, The - Ocarina of Time 3D",
-      "file": "jingles/n3ds/.wav"
+      "file": "jingles/n3ds/tloz-oot3d.wav"
     },
     {
       "game": "Luigi's Mansion",
